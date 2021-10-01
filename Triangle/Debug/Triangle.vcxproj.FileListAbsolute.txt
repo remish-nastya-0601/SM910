@@ -1,0 +1,2 @@
+C:\Users\remis\source\repos\Triangle\Debug\Triangle.exe
+C:\Users\remis\source\repos\Triangle\Debug\Triangle.pdb
