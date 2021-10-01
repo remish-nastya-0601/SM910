@@ -1,0 +1,2 @@
+C:\Users\remis\source\repos\Time\Debug\Time.exe
+C:\Users\remis\source\repos\Time\Debug\Time.pdb
