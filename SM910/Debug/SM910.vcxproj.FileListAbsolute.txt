@@ -1,0 +1,5 @@
+C:\Users\remis\source\repos\SM910\Debug\SM910.vcxprojAssemblyReference.cache
+C:\Users\remis\source\repos\SM910\Debug\SM910.exe
+C:\Users\remis\source\repos\SM910\Debug\SM910.pdb
+C:\Users\remis\source\repos\SM910\Debug\SM910.MyForm.resources
+C:\Users\remis\source\repos\SM910\Debug\SM910.vcxproj.GenerateResource.cache
